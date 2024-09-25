@@ -1,0 +1,22 @@
+[
+    {
+      "name": "John Doe",
+      "age": 30,
+      "email": "john.doe@example.com"
+    },
+    {
+      "name": "Jane Doe",
+      "age": 25,
+      "email": "jane.doe@example.com"
+    },
+    {
+        "name": "Зорин Игнат",
+        "age": 19,
+        "email": "zorin-ignat@list.ru"
+    },
+    {
+        "name": "Заседателев Алексей",
+        "age": 42,
+        "email": "test@test.ru"
+    }
+  ]
